@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ksairakesh@gmail.com**
 
-- ⚡ Fun fact **Life is binary at long short,logical at close view**
+- ⚡ Fun fact **Life is binary at long shot,logical at close view**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
