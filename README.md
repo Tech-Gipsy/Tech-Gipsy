@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tech-gipsy&label=Profile%20views&color=0e75b6&style=flat" alt="tech-gipsy" /> </p>
 
-- 🔭 I’m currently working on **AWS**
+- 🔭 Current Cloud Technology **AWS**
 
 - 🌱 I’m currently learning **react,nextjs**
 
