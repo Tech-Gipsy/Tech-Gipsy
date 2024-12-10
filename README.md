@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **react,nextjs**
 
-- 👨‍💻 All of my projects are available at [bunroo.in](bunroo.in)
+- 👨‍💻 All of my internet faced projects are available at [bunroo.in](bunroo.in)
 
 - 📫 How to reach me **ksairakesh@gmail.com**
 
