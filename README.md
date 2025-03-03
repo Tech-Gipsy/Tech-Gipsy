@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rakesh Sai Kamuju</h1>
-<h3 align="center">A passionate backend developer</h3>
+<h3 align="center">A passionate Software and hardware developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tech-gipsy&label=Profile%20views&color=0e75b6&style=flat" alt="tech-gipsy" /> </p>
 
